@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Guia Análisis Exploratorio y Visualizacion/Data/complete.csv
+Guia Análisis Exploratorio y Visualizacion/Data/scrubbed.csv
