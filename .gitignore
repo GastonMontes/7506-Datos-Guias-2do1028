@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 Guia Análisis Exploratorio y Visualizacion/Data/complete.csv
 Guia Análisis Exploratorio y Visualizacion/Data/scrubbed.csv
+Guia Análisis Exploratorio y Visualizacion/Data/student-mat.csv
+Guia Análisis Exploratorio y Visualizacion/Data/student-merge.R
+Guia Análisis Exploratorio y Visualizacion/Data/student-por.csv
